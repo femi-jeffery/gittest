@@ -1,3 +1,3 @@
 functoin(){
-	adfadf
-}
+alert("adfadf")
+};
